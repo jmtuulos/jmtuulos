@@ -7,7 +7,7 @@ I'm currently studying in Hive Helsinki, where I'm improving my skills in C and 
 -  Most of my projects are available here in my github
 -  I have technical background in Automation Engineering (Robotics, logical control ...)
 -  I love solving puzzles
--  My passion in addition to coding is 🍕
+-  My passion in addition to coding is pizza 🍕
 
 ## Links
 [Linkedin](https://www.linkedin.com/in/juha-heiskanen/)
