@@ -1,6 +1,6 @@
 ### Hi, I'm Juha Tuulos 👋
 
-I'm currently studying in Hive Helsinki, where I'm improving my skills in C and Unix.
+I'm currently studying in Hive Helsinki, where I'm mastering my skills in C and Unix.
 
 -  I’m currently improving my skills in C and python
 -  Also currently dipping my feet in Rust
