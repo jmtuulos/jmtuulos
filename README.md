@@ -1,4 +1,4 @@
-### Hi, I'm Juha Tuulos 👋
+### Hi, I'm Juha 👋
 
 I'm currently studying in Hive Helsinki, where I'm mastering my skills in C and Unix.
 
