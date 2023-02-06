@@ -1,5 +1,5 @@
 ### Hi, I'm Juha 👋
-I'm a Full Stack Developer who really enjoys learning new stuff
+I'm a Full Stack Developer, but I also love learning about anything new and interesting
 
 -  I have technical background in Automation Engineering (Robotics, logical control ...)
 -  I love solving puzzles
